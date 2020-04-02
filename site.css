@@ -1,0 +1,24 @@
+body {
+    margin: 0px
+}
+.container {
+    width: 100vw;
+    height: 100vh;
+    background: #CDDEF0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center
+}
+#resultadoSorteio {
+    font-size: 20px;
+    padding: 30px;
+}
+#botaoSalvar {
+    width: 120px;
+    height: 30px;
+}
+.senha{
+    padding: 6px;
+    margin-left: 10px;
+}
